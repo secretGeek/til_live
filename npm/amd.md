@@ -1,4 +1,0 @@
-# AMD
-
-Asynchronous Module Definition
-
